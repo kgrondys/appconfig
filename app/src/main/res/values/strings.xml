@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Serial PoC</string>
+    <string name="desc">This is a place to enter any variable from EMM (i.e. ${DeviceSerialNumber}$)</string>
+</resources>
